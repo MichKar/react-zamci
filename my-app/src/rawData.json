@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstname": "Jakub",
+      "surname": "Karafiát",
+      "age": 7,
+      "gender": "muž"
+    },
+    {
+      "id": 2,
+      "firstname": "Eleni",
+      "surname": "Tsiolas",
+      "age": 5,
+      "gender": "žena"
+    },
+    {
+      "id": 3,
+      "firstname": "Kryštof",
+      "surname": "Kalník",
+      "age": 11,
+      "gender": "muž"
+    },
+    {
+      "id": 4,
+      "firstname": "Tereza",
+      "surname": "Chamrádová",
+      "age": 2,
+      "gender": "žena"
+    },
+    {
+      "id": 5,
+      "firstname": "Emma",
+      "surname": "Pavlásková",
+      "age": 3,
+      "gender": "žena"
+    }
+  ]
+}
